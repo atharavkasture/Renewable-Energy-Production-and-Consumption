@@ -1,6 +1,6 @@
 # Renewable Energy Production and Consumption Analysis
 
-> **Note:** This repository contains the Jupyter Notebook (`.ipynb`) and supporting materials for the study “Renewable Energy Production and Consumption,” originally presented as an IEEE‐style report.  
+> **Note:** This repository contains the Jupyter Notebook (`.ipynb`)  
 
 ---
 
