@@ -54,13 +54,13 @@ This project investigates and compares six classification models (Logistic Regre
 
 ├── requirements.txt # Python dependencies
 
-└── figures/
+├── figures/
 
-├── workflow.png
+│   ├── workflow.png
 
-├── model_performance.png
+│   ├── model_performance.png
 
-└── time_series_forecast.png
+│   └── time_series_forecast.png
 
 
 
