@@ -77,10 +77,14 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 3. Install dependencies
 pip install -r requirements.txt
 
+---
+
 ## Usage
 Launch Jupyter Notebook
 jupyter notebook Renewable_Energy_Analysis.ipynb
 Execute cells in order to reproduce data preprocessing, model training, evaluation, and visualization.
+
+---
 
 ## Methodology Summary
 Data Acquisition & Preprocessing
@@ -105,6 +109,8 @@ ARIMA(1,1,1) for 3‑month renewable consumption forecast.
 
 TOPSIS, MOORA, AHP‑TOPSIS, AHP‑MOORA for site suitability ranking.
 
+---
+
 ## Results & Discussion
 Classification: Random Forest achieved highest multiclass accuracy (99.58 %) and binary potential prediction (99.13 %).
 
@@ -114,6 +120,7 @@ Time Series: Forecast shows growth from 712 to 735 units over the next quarter (
 
 MCDM: Hybrid AHP‐TOPSIS and AHP‐MOORA rankings remained stable across weighting schemes.
 
+---
 
 ## References
 Please refer to the end of Energy_Production_Consumption_Analysis.pdf and the notebook for a complete list of references. Key citations include:
