@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-This project investigates and compares six classification models (Logistic Regression, K‑Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, LSTM) and four regression models (Linear Regression, Decision Tree Regressor, Random Forest Regressor, LSTM Regressor) on renewable energy datasets, as well as ARIMA time‑series forecasting and Multi‑Criteria Decision‑Making methods (TOPSIS, MOORA, AHP‑TOPSIS, AHP‑MOORA). The goal is to provide actionable insights for selecting appropriate forecasting systems for sustainable power grid integration and planning :contentReference.
+This project investigates and compares six classification models (Logistic Regression, K‑Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, LSTM) and four regression models (Linear Regression, Decision Tree Regressor, Random Forest Regressor, LSTM Regressor) on renewable energy datasets, as well as ARIMA time‑series forecasting and Multi‑Criteria Decision‑Making methods (TOPSIS, MOORA, AHP‑TOPSIS, AHP‑MOORA). The goal is to provide actionable insights for selecting appropriate forecasting systems for sustainable power grid integration and planning.
 
 ---
 
